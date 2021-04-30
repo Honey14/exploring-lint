@@ -1,2 +1,2 @@
 # exploring-lint
-We create an resource imageview lint rule
+We create an resource `ImageView` lint rule
